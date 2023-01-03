@@ -1,3 +1,9 @@
+database.sqlite
+.idea
+.__pycache__
+
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,database
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,database
 
