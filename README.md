@@ -4,4 +4,4 @@ Proyecto creado con Fast-API este proyecto consiste en un CRUD de peliculas, don
 una pelicula en especifico por su id, o tambien consultar todas las peliculas que han sido registradas,en esta tambien tenemos la opcion de eliminar alguna pelicula
 agregada por su ID asi que cumple con todas las funciones de un CRUD(CREATE,READ,UPDATE,DELETE)
 
-Si quieres probar nuestra API solo debes clonar este repositorio y instalar requerements.txt
+Si deseas probar nuestra API solo debes clonar este repositorio y instalar requerements.txt
